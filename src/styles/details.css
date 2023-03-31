@@ -1,0 +1,46 @@
+
+
+
+.field {
+    
+    flex-direction: column;
+    padding-top: 200 px;
+    padding-bottom: 200 px;
+    
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url("https://i.pinimg.com/236x/c4/c2/53/c4c253d576737af4ff37ffe83446f43e--grimm-clowns.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ 
+/*.bg-image {
+    outline: 2px solid black;
+    padding: 20 em;
+   
+    /* The image used */
+    /*background-image: url("https://i.pinimg.com/236x/c4/c2/53/c4c253d576737af4ff37ffe83446f43e--grimm-clowns.jpg");
+  
+    /* Add the blur effect */
+    /*filter: blur(8px);
+    -webkit-filter: blur(8px);
+  
+      /* Full height */
+      /*height: 200%;
+  
+    /* Center and scale the image nicely */
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   <div class="bg-image"></div><---need this in index.html to make this work
+  }*/
+  
